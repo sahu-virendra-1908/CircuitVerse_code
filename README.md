@@ -1,3 +1,8 @@
 UI UX 
-![alt text](image.png),![alt text](image-1.png),![alt text](image-2.png),![alt text](image-3.png)
+<p align="center">
+  <img src="image.png" width="22%" />
+  <img src="image-1.png" width="22%" />
+  <img src="image-2.png" width="22%" />
+  <img src="image-3.png" width="22%" />
+</p>
 
